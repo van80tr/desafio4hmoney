@@ -1,0 +1,17 @@
+{
+    "name": "pratica",
+    "description": "Pratica one",
+    "authors": [
+        {
+            "name": "GILVAN MACHADO",
+            "email": "van80tr@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src"
+           
+        }
+    }
+}
